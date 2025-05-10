@@ -35,7 +35,6 @@ Invalid input? The Sorting Hat gets angry... and ends the quiz early.
 3. Open a terminal or command prompt.
 4. Run the script:
 
-```
 python sorting_hat.py
 ````
 

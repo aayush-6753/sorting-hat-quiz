@@ -1,8 +1,3 @@
-
-
-
-### 📄 `README.md`
-
 ````markdown
 # 🧙‍♂️ Hogwarts Sorting Hat Quiz (Python)
 
@@ -61,13 +56,3 @@ Created as a beginner-friendly Python project inspired by the Wizarding World of
 Perfect for fans, students, and those learning the magic of code!
 
 ```
-
----
-
-### ✅ How to Use It
-- When you create or edit your `README.md` on GitHub, just paste the content above.
-- You can also add a screenshot later of your terminal output using the quiz if you want to make it even more visual.
-
-Would you like a help writing your GitHub commit message or social media caption to share this project too?
-```
-
